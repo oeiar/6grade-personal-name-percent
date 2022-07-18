@@ -1,776 +1,776 @@
 100%
-	조환m -> 길도윤m GAY
-	차민오m -> 김시호m GAY
-	정준우m -> 김시호m GAY
+	조환m -> 길도윤m BL
+	차민오m -> 김시호m BL
+	정준우m -> 김시호m BL
 
 99%
-	정성준m -> 가도원w NON GAY
-	가도원w -> 김범수m NON GAY
-	가도원w -> 신민서w WOMEN GAY
-	강은찬m -> 차민오m GAY
-	강은찬m -> 정준우m GAY
-	정시우m -> 박주원m GAY
-	차민오m -> 박지빈w NON GAY
-	차민오m -> 정연준m GAY
-	정준우m -> 박지빈w NON GAY
-	정준우m -> 정연준m GAY
+	정성준m -> 가도원w 정상
+	가도원w -> 김범수m 정상
+	가도원w -> 신민서w GL
+	강은찬m -> 차민오m BL
+	강은찬m -> 정준우m BL
+	정시우m -> 박주원m BL
+	차민오m -> 박지빈w 정상
+	차민오m -> 정연준m BL
+	정준우m -> 박지빈w 정상
+	정준우m -> 정연준m BL
 
 98%
-	정성준m -> 명재윤w NON GAY
-	강은찬m -> 오예준m GAY
-	정시우m -> 길도윤m GAY
-	최현서w -> 김시호m NON GAY
+	정성준m -> 명재윤w 정상
+	강은찬m -> 오예준m BL
+	정시우m -> 길도윤m BL
+	최현서w -> 김시호m 정상
 
 97%
-	정성준m -> 조환m GAY
-	가도원w -> 박지빈w WOMEN GAY
-	가도원w -> 정연준m NON GAY
-	강서윤w -> 김지윤w WOMEN GAY
-	김범수m -> 김범수m GAY
-	김범수m -> 신민서w NON GAY
-	김지윤w -> 김효인w WOMEN GAY
-	김효인w -> 김효인w WOMEN GAY
-	최현서w -> 최현서w WOMEN GAY
+	정성준m -> 조환m BL
+	가도원w -> 박지빈w GL
+	가도원w -> 정연준m 정상
+	강서윤w -> 김지윤w GL
+	김범수m -> 김범수m BL
+	김범수m -> 신민서w 정상
+	김지윤w -> 김효인w GL
+	김효인w -> 김효인w GL
+	최현서w -> 최현서w GL
 
 96%
-	김지윤w -> 박성현m NON GAY
-	김효인w -> 박성현m NON GAY
-	조환m -> 김시호m GAY
+	김지윤w -> 박성현m 정상
+	김효인w -> 박성현m 정상
+	조환m -> 김시호m BL
 
 95%
-	정성준m -> 강은찬m GAY
-	정성준m -> 정시우m GAY
-	강은찬m -> 김효인w NON GAY
-	김범수m -> 박지빈w NON GAY
-	김범수m -> 정연준m GAY
-	김지윤w -> 박주원m NON GAY
-	김효인w -> 박주원m NON GAY
-	박주원m -> 김지윤w NON GAY
-	신민서w -> 김범수m NON GAY
-	신민서w -> 신민서w WOMEN GAY
-	정시우m -> 차민오m GAY
-	정시우m -> 정준우m GAY
-	조환m -> 최현서w NON GAY
+	정성준m -> 강은찬m BL
+	정성준m -> 정시우m BL
+	강은찬m -> 김효인w 정상
+	김범수m -> 박지빈w 정상
+	김범수m -> 정연준m BL
+	김지윤w -> 박주원m 정상
+	김효인w -> 박주원m 정상
+	박주원m -> 김지윤w 정상
+	신민서w -> 김범수m 정상
+	신민서w -> 신민서w GL
+	정시우m -> 차민오m BL
+	정시우m -> 정준우m BL
+	조환m -> 최현서w 정상
 
 94%
-	강서윤w -> 김은오w WOMEN GAY
-	강은찬m -> 박성현m GAY
-	김지윤w -> 길도윤m NON GAY
-	김효인w -> 길도윤m NON GAY
-	박지빈w -> 김시호m NON GAY
-	정시우m -> 오예준m GAY
+	강서윤w -> 김은오w GL
+	강은찬m -> 박성현m BL
+	김지윤w -> 길도윤m 정상
+	김효인w -> 길도윤m 정상
+	박지빈w -> 김시호m 정상
+	정시우m -> 오예준m BL
 
 93%
-	정성준m -> 강서윤w NON GAY
-	강서윤w -> 정성준m NON GAY
-	강은찬m -> 박주원m GAY
-	박지빈w -> 최현서w WOMEN GAY
-	신민서w -> 박지빈w WOMEN GAY
-	신민서w -> 정연준m NON GAY
+	정성준m -> 강서윤w 정상
+	강서윤w -> 정성준m 정상
+	강은찬m -> 박주원m BL
+	박지빈w -> 최현서w GL
+	신민서w -> 박지빈w GL
+	신민서w -> 정연준m 정상
 
 92%
-	강서윤w -> 이소연w WOMEN GAY
-	강서윤w -> 정하윤w WOMEN GAY
-	강은찬m -> 길도윤m GAY
-	박주원m -> 김은오w NON GAY
-	정연준m -> 김시호m GAY
+	강서윤w -> 이소연w GL
+	강서윤w -> 정하윤w GL
+	강은찬m -> 길도윤m BL
+	박주원m -> 김은오w 정상
+	정연준m -> 김시호m BL
 
 91%
-	김지윤w -> 차민오m NON GAY
-	김지윤w -> 정준우m NON GAY
-	김효인w -> 차민오m NON GAY
-	김효인w -> 정준우m NON GAY
-	박주원m -> 정성준m GAY
-	정시우m -> 김효인w NON GAY
-	정연준m -> 최현서w NON GAY
-	차민오m -> 김범수m GAY
-	차민오m -> 신민서w NON GAY
-	정준우m -> 김범수m GAY
-	정준우m -> 신민서w NON GAY
+	김지윤w -> 차민오m 정상
+	김지윤w -> 정준우m 정상
+	김효인w -> 차민오m 정상
+	김효인w -> 정준우m 정상
+	박주원m -> 정성준m BL
+	정시우m -> 김효인w 정상
+	정연준m -> 최현서w 정상
+	차민오m -> 김범수m BL
+	차민오m -> 신민서w 정상
+	정준우m -> 김범수m BL
+	정준우m -> 신민서w 정상
 
 90%
-	김지윤w -> 오예준m NON GAY
-	김효인w -> 오예준m NON GAY
-	박주원m -> 이소연w NON GAY
-	박주원m -> 정하윤w NON GAY
-	정시우m -> 박성현m GAY
+	김지윤w -> 오예준m 정상
+	김효인w -> 오예준m 정상
+	박주원m -> 이소연w 정상
+	박주원m -> 정하윤w 정상
+	정시우m -> 박성현m BL
 
 89%
-	박성현m -> 김효인w NON GAY
-	명재윤w -> 김범수m NON GAY
-	명재윤w -> 신민서w WOMEN GAY
-	오예준m -> 김범수m GAY
-	오예준m -> 신민서w NON GAY
-	이소연w -> 조환m NON GAY
-	정하윤w -> 강서윤w WOMEN GAY
+	박성현m -> 김효인w 정상
+	명재윤w -> 김범수m 정상
+	명재윤w -> 신민서w GL
+	오예준m -> 김범수m BL
+	오예준m -> 신민서w 정상
+	이소연w -> 조환m 정상
+	정하윤w -> 강서윤w GL
 
 88%
-	박성현m -> 박성현m GAY
-	길도윤m -> 김은오w NON GAY
+	박성현m -> 박성현m BL
+	길도윤m -> 김은오w 정상
 
 87%
-	박성현m -> 박주원m GAY
-	길도윤m -> 정성준m GAY
-	명재윤w -> 박지빈w WOMEN GAY
-	명재윤w -> 정연준m NON GAY
-	오예준m -> 박지빈w NON GAY
-	오예준m -> 정연준m GAY
-	이소연w -> 강은찬m NON GAY
-	이소연w -> 정시우m NON GAY
+	박성현m -> 박주원m BL
+	길도윤m -> 정성준m BL
+	명재윤w -> 박지빈w GL
+	명재윤w -> 정연준m 정상
+	오예준m -> 박지빈w 정상
+	오예준m -> 정연준m BL
+	이소연w -> 강은찬m 정상
+	이소연w -> 정시우m 정상
 
 86%
-	박성현m -> 길도윤m GAY
-	길도윤m -> 이소연w NON GAY
-	길도윤m -> 정하윤w NON GAY
+	박성현m -> 길도윤m BL
+	길도윤m -> 이소연w 정상
+	길도윤m -> 정하윤w 정상
 
 85%
-	김은오w -> 김지윤w WOMEN GAY
-	이소연w -> 강서윤w WOMEN GAY
-	정하윤w -> 가도원w WOMEN GAY
+	김은오w -> 김지윤w GL
+	이소연w -> 강서윤w GL
+	정하윤w -> 가도원w GL
 
 84%
-	정하윤w -> 명재윤w WOMEN GAY
+	정하윤w -> 명재윤w GL
 
 83%
-	박성현m -> 차민오m GAY
-	박성현m -> 정준우m GAY
-	김시호m -> 김범수m GAY
-	김시호m -> 신민서w NON GAY
-	정하윤w -> 조환m NON GAY
+	박성현m -> 차민오m BL
+	박성현m -> 정준우m BL
+	김시호m -> 김범수m BL
+	김시호m -> 신민서w 정상
+	정하윤w -> 조환m 정상
 
 82%
-	박성현m -> 오예준m GAY
-	김은오w -> 김은오w WOMEN GAY
+	박성현m -> 오예준m BL
+	김은오w -> 김은오w GL
 
 81%
-	길도윤m -> 김지윤w NON GAY
-	김시호m -> 박지빈w NON GAY
-	김시호m -> 정연준m GAY
-	김은오w -> 정성준m NON GAY
-	이소연w -> 가도원w WOMEN GAY
-	정하윤w -> 강은찬m NON GAY
-	정하윤w -> 정시우m NON GAY
+	길도윤m -> 김지윤w 정상
+	김시호m -> 박지빈w 정상
+	김시호m -> 정연준m BL
+	김은오w -> 정성준m 정상
+	이소연w -> 가도원w GL
+	정하윤w -> 강은찬m 정상
+	정하윤w -> 정시우m 정상
 
 80%
-	김은오w -> 이소연w WOMEN GAY
-	김은오w -> 정하윤w WOMEN GAY
-	이소연w -> 명재윤w WOMEN GAY
+	김은오w -> 이소연w GL
+	김은오w -> 정하윤w GL
+	이소연w -> 명재윤w GL
 
 79%
-	가도원w -> 가도원w WOMEN GAY
-	김지윤w -> 최현서w WOMEN GAY
-	김효인w -> 최현서w WOMEN GAY
-	박주원m -> 차민오m GAY
-	박주원m -> 정준우m GAY
-	신민서w -> 강서윤w WOMEN GAY
-	차민오m -> 조환m GAY
-	최현서w -> 김범수m NON GAY
-	최현서w -> 신민서w WOMEN GAY
-	정준우m -> 조환m GAY
+	가도원w -> 가도원w GL
+	김지윤w -> 최현서w GL
+	김효인w -> 최현서w GL
+	박주원m -> 차민오m BL
+	박주원m -> 정준우m BL
+	신민서w -> 강서윤w GL
+	차민오m -> 조환m BL
+	최현서w -> 김범수m 정상
+	최현서w -> 신민서w GL
+	정준우m -> 조환m BL
 
 78%
-	가도원w -> 명재윤w WOMEN GAY
-	강은찬m -> 김시호m GAY
-	박주원m -> 오예준m GAY
+	가도원w -> 명재윤w GL
+	강은찬m -> 김시호m BL
+	박주원m -> 오예준m BL
 
 77%
-	가도원w -> 조환m NON GAY
-	강서윤w -> 김효인w WOMEN GAY
-	강은찬m -> 최현서w NON GAY
-	김범수m -> 가도원w NON GAY
-	조환m -> 김범수m GAY
-	조환m -> 신민서w NON GAY
-	차민오m -> 강은찬m GAY
-	차민오m -> 정시우m GAY
-	최현서w -> 박지빈w WOMEN GAY
-	최현서w -> 정연준m NON GAY
-	정준우m -> 강은찬m GAY
-	정준우m -> 정시우m GAY
+	가도원w -> 조환m 정상
+	강서윤w -> 김효인w GL
+	강은찬m -> 최현서w 정상
+	김범수m -> 가도원w 정상
+	조환m -> 김범수m BL
+	조환m -> 신민서w 정상
+	차민오m -> 강은찬m BL
+	차민오m -> 정시우m BL
+	최현서w -> 박지빈w GL
+	최현서w -> 정연준m 정상
+	정준우m -> 강은찬m BL
+	정준우m -> 정시우m BL
 
 76%
-	강서윤w -> 박성현m NON GAY
-	김범수m -> 명재윤w NON GAY
+	강서윤w -> 박성현m 정상
+	김범수m -> 명재윤w 정상
 
 75%
-	정성준m -> 김지윤w NON GAY
-	가도원w -> 강은찬m NON GAY
-	가도원w -> 정시우m NON GAY
-	강서윤w -> 박주원m NON GAY
-	김범수m -> 조환m GAY
-	박주원m -> 김효인w NON GAY
-	박지빈w -> 김범수m NON GAY
-	박지빈w -> 신민서w WOMEN GAY
-	신민서w -> 가도원w WOMEN GAY
-	조환m -> 박지빈w NON GAY
-	조환m -> 정연준m GAY
-	차민오m -> 강서윤w NON GAY
-	정준우m -> 강서윤w NON GAY
+	정성준m -> 김지윤w 정상
+	가도원w -> 강은찬m 정상
+	가도원w -> 정시우m 정상
+	강서윤w -> 박주원m 정상
+	김범수m -> 조환m BL
+	박주원m -> 김효인w 정상
+	박지빈w -> 김범수m 정상
+	박지빈w -> 신민서w GL
+	신민서w -> 가도원w GL
+	조환m -> 박지빈w 정상
+	조환m -> 정연준m BL
+	차민오m -> 강서윤w 정상
+	정준우m -> 강서윤w 정상
 
 74%
-	강서윤w -> 길도윤m NON GAY
-	박주원m -> 박성현m GAY
-	신민서w -> 명재윤w WOMEN GAY
-	정시우m -> 김시호m GAY
+	강서윤w -> 길도윤m 정상
+	박주원m -> 박성현m BL
+	신민서w -> 명재윤w GL
+	정시우m -> 김시호m BL
 
 73%
-	가도원w -> 강서윤w WOMEN GAY
-	김범수m -> 강은찬m GAY
-	김범수m -> 정시우m GAY
-	박주원m -> 박주원m GAY
-	박지빈w -> 박지빈w WOMEN GAY
-	박지빈w -> 정연준m NON GAY
-	신민서w -> 조환m NON GAY
-	정시우m -> 최현서w NON GAY
-	정연준m -> 김범수m GAY
-	정연준m -> 신민서w NON GAY
+	가도원w -> 강서윤w GL
+	김범수m -> 강은찬m BL
+	김범수m -> 정시우m BL
+	박주원m -> 박주원m BL
+	박지빈w -> 박지빈w GL
+	박지빈w -> 정연준m 정상
+	신민서w -> 조환m 정상
+	정시우m -> 최현서w 정상
+	정연준m -> 김범수m BL
+	정연준m -> 신민서w 정상
 
 72%
-	정성준m -> 김은오w NON GAY
-	박주원m -> 길도윤m GAY
+	정성준m -> 김은오w 정상
+	박주원m -> 길도윤m BL
 
 71%
-	정성준m -> 정성준m GAY
-	강서윤w -> 차민오m NON GAY
-	강서윤w -> 정준우m NON GAY
-	김범수m -> 강서윤w NON GAY
-	신민서w -> 강은찬m NON GAY
-	신민서w -> 정시우m NON GAY
-	정연준m -> 박지빈w NON GAY
-	정연준m -> 정연준m GAY
-	차민오m -> 가도원w NON GAY
-	정준우m -> 가도원w NON GAY
+	정성준m -> 정성준m BL
+	강서윤w -> 차민오m 정상
+	강서윤w -> 정준우m 정상
+	김범수m -> 강서윤w 정상
+	신민서w -> 강은찬m 정상
+	신민서w -> 정시우m 정상
+	정연준m -> 박지빈w 정상
+	정연준m -> 정연준m BL
+	차민오m -> 가도원w 정상
+	정준우m -> 가도원w 정상
 
 70%
-	정성준m -> 이소연w NON GAY
-	정성준m -> 정하윤w NON GAY
-	강서윤w -> 오예준m NON GAY
-	김지윤w -> 김시호m NON GAY
-	김효인w -> 김시호m NON GAY
-	차민오m -> 명재윤w NON GAY
-	정준우m -> 명재윤w NON GAY
+	정성준m -> 이소연w 정상
+	정성준m -> 정하윤w 정상
+	강서윤w -> 오예준m 정상
+	김지윤w -> 김시호m 정상
+	김효인w -> 김시호m 정상
+	차민오m -> 명재윤w 정상
+	정준우m -> 명재윤w 정상
 
 69%
-	길도윤m -> 박주원m GAY
-	명재윤w -> 가도원w WOMEN GAY
-	김시호m -> 강은찬m GAY
-	김시호m -> 정시우m GAY
-	김은오w -> 차민오m NON GAY
-	김은오w -> 정준우m NON GAY
-	오예준m -> 가도원w NON GAY
+	길도윤m -> 박주원m BL
+	명재윤w -> 가도원w GL
+	김시호m -> 강은찬m BL
+	김시호m -> 정시우m BL
+	김은오w -> 차민오m 정상
+	김은오w -> 정준우m 정상
+	오예준m -> 가도원w 정상
 
 68%
-	길도윤m -> 길도윤m GAY
-	명재윤w -> 명재윤w WOMEN GAY
-	김은오w -> 오예준m NON GAY
-	오예준m -> 명재윤w NON GAY
-	정하윤w -> 김은오w WOMEN GAY
+	길도윤m -> 길도윤m BL
+	명재윤w -> 명재윤w GL
+	김은오w -> 오예준m 정상
+	오예준m -> 명재윤w 정상
+	정하윤w -> 김은오w GL
 
 67%
-	명재윤w -> 조환m NON GAY
-	김시호m -> 강서윤w NON GAY
-	오예준m -> 조환m GAY
-	이소연w -> 김지윤w WOMEN GAY
-	정하윤w -> 정성준m NON GAY
+	명재윤w -> 조환m 정상
+	김시호m -> 강서윤w 정상
+	오예준m -> 조환m BL
+	이소연w -> 김지윤w GL
+	정하윤w -> 정성준m 정상
 
 66%
-	정하윤w -> 이소연w WOMEN GAY
-	정하윤w -> 정하윤w WOMEN GAY
+	정하윤w -> 이소연w GL
+	정하윤w -> 정하윤w GL
 
 65%
-	길도윤m -> 차민오m GAY
-	길도윤m -> 정준우m GAY
-	명재윤w -> 강은찬m NON GAY
-	명재윤w -> 정시우m NON GAY
-	김은오w -> 김효인w WOMEN GAY
-	오예준m -> 강은찬m GAY
-	오예준m -> 정시우m GAY
+	길도윤m -> 차민오m BL
+	길도윤m -> 정준우m BL
+	명재윤w -> 강은찬m 정상
+	명재윤w -> 정시우m 정상
+	김은오w -> 김효인w GL
+	오예준m -> 강은찬m BL
+	오예준m -> 정시우m BL
 
 64%
-	길도윤m -> 오예준m GAY
-	김은오w -> 박성현m NON GAY
-	이소연w -> 김은오w WOMEN GAY
+	길도윤m -> 오예준m BL
+	김은오w -> 박성현m 정상
+	이소연w -> 김은오w GL
 
 63%
-	명재윤w -> 강서윤w WOMEN GAY
-	김시호m -> 가도원w NON GAY
-	김은오w -> 박주원m NON GAY
-	오예준m -> 강서윤w NON GAY
-	이소연w -> 정성준m NON GAY
+	명재윤w -> 강서윤w GL
+	김시호m -> 가도원w 정상
+	김은오w -> 박주원m 정상
+	오예준m -> 강서윤w 정상
+	이소연w -> 정성준m 정상
 
 62%
-	박성현m -> 김시호m GAY
-	김시호m -> 명재윤w NON GAY
-	김은오w -> 길도윤m NON GAY
-	이소연w -> 이소연w WOMEN GAY
-	이소연w -> 정하윤w WOMEN GAY
+	박성현m -> 김시호m BL
+	김시호m -> 명재윤w 정상
+	김은오w -> 길도윤m 정상
+	이소연w -> 이소연w GL
+	이소연w -> 정하윤w GL
 
 61%
-	박성현m -> 최현서w NON GAY
-	길도윤m -> 김효인w NON GAY
-	김시호m -> 조환m GAY
-	정하윤w -> 김지윤w WOMEN GAY
+	박성현m -> 최현서w 정상
+	길도윤m -> 김효인w 정상
+	김시호m -> 조환m BL
+	정하윤w -> 김지윤w GL
 
 60%
-	길도윤m -> 박성현m GAY
+	길도윤m -> 박성현m BL
 
 59%
-	정성준m -> 차민오m GAY
-	정성준m -> 정준우m GAY
-	강서윤w -> 최현서w WOMEN GAY
-	강은찬m -> 김범수m GAY
-	강은찬m -> 신민서w NON GAY
-	김범수m -> 정성준m GAY
-	김지윤w -> 박지빈w WOMEN GAY
-	김지윤w -> 정연준m NON GAY
-	김효인w -> 박지빈w WOMEN GAY
-	김효인w -> 정연준m NON GAY
-	박지빈w -> 강서윤w WOMEN GAY
-	정연준m -> 강은찬m GAY
-	정연준m -> 정시우m GAY
-	최현서w -> 가도원w WOMEN GAY
+	정성준m -> 차민오m BL
+	정성준m -> 정준우m BL
+	강서윤w -> 최현서w GL
+	강은찬m -> 김범수m BL
+	강은찬m -> 신민서w 정상
+	김범수m -> 정성준m BL
+	김지윤w -> 박지빈w GL
+	김지윤w -> 정연준m 정상
+	김효인w -> 박지빈w GL
+	김효인w -> 정연준m 정상
+	박지빈w -> 강서윤w GL
+	정연준m -> 강은찬m BL
+	정연준m -> 정시우m BL
+	최현서w -> 가도원w GL
 
 58%
-	정성준m -> 오예준m GAY
-	김범수m -> 이소연w NON GAY
-	김범수m -> 정하윤w NON GAY
-	박주원m -> 김시호m GAY
-	신민서w -> 김은오w WOMEN GAY
-	최현서w -> 명재윤w WOMEN GAY
+	정성준m -> 오예준m BL
+	김범수m -> 이소연w 정상
+	김범수m -> 정하윤w 정상
+	박주원m -> 김시호m BL
+	신민서w -> 김은오w GL
+	최현서w -> 명재윤w GL
 
 57%
-	강은찬m -> 박지빈w NON GAY
-	강은찬m -> 정연준m GAY
-	박주원m -> 최현서w NON GAY
-	신민서w -> 정성준m NON GAY
-	정연준m -> 강서윤w NON GAY
-	조환m -> 가도원w NON GAY
-	차민오m -> 김지윤w NON GAY
-	최현서w -> 조환m NON GAY
-	정준우m -> 김지윤w NON GAY
+	강은찬m -> 박지빈w 정상
+	강은찬m -> 정연준m BL
+	박주원m -> 최현서w 정상
+	신민서w -> 정성준m 정상
+	정연준m -> 강서윤w 정상
+	조환m -> 가도원w 정상
+	차민오m -> 김지윤w 정상
+	최현서w -> 조환m 정상
+	정준우m -> 김지윤w 정상
 
 56%
-	신민서w -> 이소연w WOMEN GAY
-	신민서w -> 정하윤w WOMEN GAY
-	조환m -> 명재윤w NON GAY
+	신민서w -> 이소연w GL
+	신민서w -> 정하윤w GL
+	조환m -> 명재윤w 정상
 
 55%
-	정성준m -> 김효인w NON GAY
-	가도원w -> 김지윤w WOMEN GAY
-	박지빈w -> 가도원w WOMEN GAY
-	정시우m -> 김범수m GAY
-	정시우m -> 신민서w NON GAY
-	최현서w -> 강은찬m NON GAY
-	최현서w -> 정시우m NON GAY
+	정성준m -> 김효인w 정상
+	가도원w -> 김지윤w GL
+	박지빈w -> 가도원w GL
+	정시우m -> 김범수m BL
+	정시우m -> 신민서w 정상
+	최현서w -> 강은찬m 정상
+	최현서w -> 정시우m 정상
 
 54%
-	정성준m -> 박성현m GAY
-	박지빈w -> 명재윤w WOMEN GAY
-	차민오m -> 김은오w NON GAY
-	정준우m -> 김은오w NON GAY
+	정성준m -> 박성현m BL
+	박지빈w -> 명재윤w GL
+	차민오m -> 김은오w 정상
+	정준우m -> 김은오w 정상
 
 53%
-	정성준m -> 박주원m GAY
-	김범수m -> 김지윤w NON GAY
-	박지빈w -> 조환m NON GAY
-	정시우m -> 박지빈w NON GAY
-	정시우m -> 정연준m GAY
-	정연준m -> 가도원w NON GAY
-	조환m -> 강은찬m GAY
-	조환m -> 정시우m GAY
-	차민오m -> 정성준m GAY
-	최현서w -> 강서윤w WOMEN GAY
-	정준우m -> 정성준m GAY
+	정성준m -> 박주원m BL
+	김범수m -> 김지윤w 정상
+	박지빈w -> 조환m 정상
+	정시우m -> 박지빈w 정상
+	정시우m -> 정연준m BL
+	정연준m -> 가도원w 정상
+	조환m -> 강은찬m BL
+	조환m -> 정시우m BL
+	차민오m -> 정성준m BL
+	최현서w -> 강서윤w GL
+	정준우m -> 정성준m BL
 
 52%
-	정성준m -> 길도윤m GAY
-	가도원w -> 김은오w WOMEN GAY
-	정연준m -> 명재윤w NON GAY
-	차민오m -> 이소연w NON GAY
-	차민오m -> 정하윤w NON GAY
-	정준우m -> 이소연w NON GAY
-	정준우m -> 정하윤w NON GAY
+	정성준m -> 길도윤m BL
+	가도원w -> 김은오w GL
+	정연준m -> 명재윤w 정상
+	차민오m -> 이소연w 정상
+	차민오m -> 정하윤w 정상
+	정준우m -> 이소연w 정상
+	정준우m -> 정하윤w 정상
 
 51%
-	가도원w -> 정성준m NON GAY
-	김지윤w -> 김범수m NON GAY
-	김지윤w -> 신민서w WOMEN GAY
-	김효인w -> 김범수m NON GAY
-	김효인w -> 신민서w WOMEN GAY
-	박지빈w -> 강은찬m NON GAY
-	박지빈w -> 정시우m NON GAY
-	신민서w -> 김지윤w WOMEN GAY
-	정연준m -> 조환m GAY
-	조환m -> 강서윤w NON GAY
+	가도원w -> 정성준m 정상
+	김지윤w -> 김범수m 정상
+	김지윤w -> 신민서w GL
+	김효인w -> 김범수m 정상
+	김효인w -> 신민서w GL
+	박지빈w -> 강은찬m 정상
+	박지빈w -> 정시우m 정상
+	신민서w -> 김지윤w GL
+	정연준m -> 조환m BL
+	조환m -> 강서윤w 정상
 
 50%
-	가도원w -> 이소연w WOMEN GAY
-	가도원w -> 정하윤w WOMEN GAY
-	강서윤w -> 김시호m NON GAY
-	김범수m -> 김은오w NON GAY
+	가도원w -> 이소연w GL
+	가도원w -> 정하윤w GL
+	강서윤w -> 김시호m 정상
+	김범수m -> 김은오w 정상
 
 49%
-	김시호m -> 김지윤w NON GAY
-	정하윤w -> 박주원m NON GAY
+	김시호m -> 김지윤w 정상
+	정하윤w -> 박주원m 정상
 
 48%
-	김은오w -> 김시호m NON GAY
-	정하윤w -> 길도윤m NON GAY
+	김은오w -> 김시호m 정상
+	정하윤w -> 길도윤m 정상
 
 47%
-	김은오w -> 최현서w WOMEN GAY
-	이소연w -> 김효인w WOMEN GAY
+	김은오w -> 최현서w GL
+	이소연w -> 김효인w GL
 
 46%
-	김시호m -> 김은오w NON GAY
-	이소연w -> 박성현m NON GAY
+	김시호m -> 김은오w 정상
+	이소연w -> 박성현m 정상
 
 45%
-	명재윤w -> 김지윤w WOMEN GAY
-	김시호m -> 정성준m GAY
-	오예준m -> 김지윤w NON GAY
-	이소연w -> 박주원m NON GAY
-	정하윤w -> 차민오m NON GAY
-	정하윤w -> 정준우m NON GAY
+	명재윤w -> 김지윤w GL
+	김시호m -> 정성준m BL
+	오예준m -> 김지윤w 정상
+	이소연w -> 박주원m 정상
+	정하윤w -> 차민오m 정상
+	정하윤w -> 정준우m 정상
 
 44%
-	길도윤m -> 김시호m GAY
-	김시호m -> 이소연w NON GAY
-	김시호m -> 정하윤w NON GAY
-	이소연w -> 길도윤m NON GAY
-	정하윤w -> 오예준m NON GAY
+	길도윤m -> 김시호m BL
+	김시호m -> 이소연w 정상
+	김시호m -> 정하윤w 정상
+	이소연w -> 길도윤m 정상
+	정하윤w -> 오예준m 정상
 
 43%
-	박성현m -> 김범수m GAY
-	박성현m -> 신민서w NON GAY
-	길도윤m -> 최현서w NON GAY
+	박성현m -> 김범수m BL
+	박성현m -> 신민서w 정상
+	길도윤m -> 최현서w 정상
 
 42%
-	명재윤w -> 김은오w WOMEN GAY
-	오예준m -> 김은오w NON GAY
-	조환m -> 조환m GAY
+	명재윤w -> 김은오w GL
+	오예준m -> 김은오w 정상
+	조환m -> 조환m BL
 
 41%
-	박성현m -> 박지빈w NON GAY
-	박성현m -> 정연준m GAY
-	명재윤w -> 정성준m NON GAY
-	오예준m -> 정성준m GAY
-	이소연w -> 차민오m NON GAY
-	이소연w -> 정준우m NON GAY
-	정하윤w -> 김효인w WOMEN GAY
+	박성현m -> 박지빈w 정상
+	박성현m -> 정연준m BL
+	명재윤w -> 정성준m 정상
+	오예준m -> 정성준m BL
+	이소연w -> 차민오m 정상
+	이소연w -> 정준우m 정상
+	정하윤w -> 김효인w GL
 
 40%
-	명재윤w -> 이소연w WOMEN GAY
-	명재윤w -> 정하윤w WOMEN GAY
-	오예준m -> 이소연w NON GAY
-	오예준m -> 정하윤w NON GAY
-	이소연w -> 오예준m NON GAY
-	정하윤w -> 박성현m NON GAY
+	명재윤w -> 이소연w GL
+	명재윤w -> 정하윤w GL
+	오예준m -> 이소연w 정상
+	오예준m -> 정하윤w 정상
+	이소연w -> 오예준m 정상
+	정하윤w -> 박성현m 정상
 
 39%
-	가도원w -> 차민오m NON GAY
-	가도원w -> 정준우m NON GAY
-	강서윤w -> 박지빈w WOMEN GAY
-	강서윤w -> 정연준m NON GAY
-	강은찬m -> 가도원w NON GAY
-	김지윤w -> 조환m NON GAY
-	김효인w -> 조환m NON GAY
-	박주원m -> 김범수m GAY
-	박주원m -> 신민서w NON GAY
-	신민서w -> 박주원m NON GAY
-	정시우m -> 강서윤w NON GAY
-	정연준m -> 김지윤w NON GAY
-	조환m -> 정성준m GAY
+	가도원w -> 차민오m 정상
+	가도원w -> 정준우m 정상
+	강서윤w -> 박지빈w GL
+	강서윤w -> 정연준m 정상
+	강은찬m -> 가도원w 정상
+	김지윤w -> 조환m 정상
+	김효인w -> 조환m 정상
+	박주원m -> 김범수m BL
+	박주원m -> 신민서w 정상
+	신민서w -> 박주원m 정상
+	정시우m -> 강서윤w 정상
+	정연준m -> 김지윤w 정상
+	조환m -> 정성준m BL
 
 38%
-	정성준m -> 김시호m GAY
-	가도원w -> 오예준m NON GAY
-	강은찬m -> 명재윤w NON GAY
-	박지빈w -> 김은오w WOMEN GAY
-	신민서w -> 길도윤m NON GAY
-	조환m -> 이소연w NON GAY
-	조환m -> 정하윤w NON GAY
+	정성준m -> 김시호m BL
+	가도원w -> 오예준m 정상
+	강은찬m -> 명재윤w 정상
+	박지빈w -> 김은오w GL
+	신민서w -> 길도윤m 정상
+	조환m -> 이소연w 정상
+	조환m -> 정하윤w 정상
 
 37%
-	정성준m -> 최현서w NON GAY
-	강은찬m -> 조환m GAY
-	김범수m -> 차민오m GAY
-	김범수m -> 정준우m GAY
-	김지윤w -> 강은찬m NON GAY
-	김지윤w -> 정시우m NON GAY
-	김효인w -> 강은찬m NON GAY
-	김효인w -> 정시우m NON GAY
-	박주원m -> 박지빈w NON GAY
-	박주원m -> 정연준m GAY
-	박지빈w -> 정성준m NON GAY
-	차민오m -> 김효인w NON GAY
-	정준우m -> 김효인w NON GAY
+	정성준m -> 최현서w 정상
+	강은찬m -> 조환m BL
+	김범수m -> 차민오m BL
+	김범수m -> 정준우m BL
+	김지윤w -> 강은찬m 정상
+	김지윤w -> 정시우m 정상
+	김효인w -> 강은찬m 정상
+	김효인w -> 정시우m 정상
+	박주원m -> 박지빈w 정상
+	박주원m -> 정연준m BL
+	박지빈w -> 정성준m 정상
+	차민오m -> 김효인w 정상
+	정준우m -> 김효인w 정상
 
 36%
-	김범수m -> 오예준m GAY
-	박지빈w -> 이소연w WOMEN GAY
-	박지빈w -> 정하윤w WOMEN GAY
-	정연준m -> 김은오w NON GAY
-	차민오m -> 박성현m GAY
-	정준우m -> 박성현m GAY
+	김범수m -> 오예준m BL
+	박지빈w -> 이소연w GL
+	박지빈w -> 정하윤w GL
+	정연준m -> 김은오w 정상
+	차민오m -> 박성현m BL
+	정준우m -> 박성현m BL
 
 35%
-	가도원w -> 김효인w WOMEN GAY
-	강은찬m -> 강은찬m GAY
-	강은찬m -> 정시우m GAY
-	김지윤w -> 강서윤w WOMEN GAY
-	김효인w -> 강서윤w WOMEN GAY
-	신민서w -> 차민오m NON GAY
-	신민서w -> 정준우m NON GAY
-	정시우m -> 가도원w NON GAY
-	정연준m -> 정성준m GAY
-	차민오m -> 박주원m GAY
-	최현서w -> 김지윤w WOMEN GAY
-	정준우m -> 박주원m GAY
+	가도원w -> 김효인w GL
+	강은찬m -> 강은찬m BL
+	강은찬m -> 정시우m BL
+	김지윤w -> 강서윤w GL
+	김효인w -> 강서윤w GL
+	신민서w -> 차민오m 정상
+	신민서w -> 정준우m 정상
+	정시우m -> 가도원w 정상
+	정연준m -> 정성준m BL
+	차민오m -> 박주원m BL
+	최현서w -> 김지윤w GL
+	정준우m -> 박주원m BL
 
 34%
-	가도원w -> 박성현m NON GAY
-	신민서w -> 오예준m NON GAY
-	정시우m -> 명재윤w NON GAY
-	정연준m -> 이소연w NON GAY
-	정연준m -> 정하윤w NON GAY
-	차민오m -> 길도윤m GAY
-	정준우m -> 길도윤m GAY
+	가도원w -> 박성현m 정상
+	신민서w -> 오예준m 정상
+	정시우m -> 명재윤w 정상
+	정연준m -> 이소연w 정상
+	정연준m -> 정하윤w 정상
+	차민오m -> 길도윤m BL
+	정준우m -> 길도윤m BL
 
 33%
-	가도원w -> 박주원m NON GAY
-	강은찬m -> 강서윤w NON GAY
-	김범수m -> 김효인w NON GAY
-	정시우m -> 조환m GAY
-	조환m -> 김지윤w NON GAY
+	가도원w -> 박주원m 정상
+	강은찬m -> 강서윤w 정상
+	김범수m -> 김효인w 정상
+	정시우m -> 조환m BL
+	조환m -> 김지윤w 정상
 
 32%
-	가도원w -> 길도윤m NON GAY
-	김범수m -> 박성현m GAY
-	최현서w -> 김은오w WOMEN GAY
+	가도원w -> 길도윤m 정상
+	김범수m -> 박성현m BL
+	최현서w -> 김은오w GL
 
 31%
-	강서윤w -> 김범수m NON GAY
-	강서윤w -> 신민서w WOMEN GAY
-	김범수m -> 박주원m GAY
-	김지윤w -> 가도원w WOMEN GAY
-	김효인w -> 가도원w WOMEN GAY
-	박지빈w -> 김지윤w WOMEN GAY
-	신민서w -> 김효인w WOMEN GAY
-	정시우m -> 강은찬m GAY
-	정시우m -> 정시우m GAY
-	차민오m -> 차민오m GAY
-	차민오m -> 정준우m GAY
-	최현서w -> 정성준m NON GAY
-	정준우m -> 차민오m GAY
-	정준우m -> 정준우m GAY
+	강서윤w -> 김범수m 정상
+	강서윤w -> 신민서w GL
+	김범수m -> 박주원m BL
+	김지윤w -> 가도원w GL
+	김효인w -> 가도원w GL
+	박지빈w -> 김지윤w GL
+	신민서w -> 김효인w GL
+	정시우m -> 강은찬m BL
+	정시우m -> 정시우m BL
+	차민오m -> 차민오m BL
+	차민오m -> 정준우m BL
+	최현서w -> 정성준m 정상
+	정준우m -> 차민오m BL
+	정준우m -> 정준우m BL
 
 30%
-	김범수m -> 길도윤m GAY
-	김지윤w -> 명재윤w WOMEN GAY
-	김효인w -> 명재윤w WOMEN GAY
-	신민서w -> 박성현m NON GAY
-	조환m -> 김은오w NON GAY
-	차민오m -> 오예준m GAY
-	최현서w -> 이소연w WOMEN GAY
-	최현서w -> 정하윤w WOMEN GAY
-	정준우m -> 오예준m GAY
+	김범수m -> 길도윤m BL
+	김지윤w -> 명재윤w GL
+	김효인w -> 명재윤w GL
+	신민서w -> 박성현m 정상
+	조환m -> 김은오w 정상
+	차민오m -> 오예준m BL
+	최현서w -> 이소연w GL
+	최현서w -> 정하윤w GL
+	정준우m -> 오예준m BL
 
 29%
-	박성현m -> 강은찬m GAY
-	박성현m -> 정시우m GAY
-	명재윤w -> 차민오m NON GAY
-	명재윤w -> 정준우m NON GAY
-	김시호m -> 김효인w NON GAY
-	김은오w -> 김범수m NON GAY
-	김은오w -> 신민서w WOMEN GAY
-	오예준m -> 차민오m GAY
-	오예준m -> 정준우m GAY
-	이소연w -> 최현서w WOMEN GAY
+	박성현m -> 강은찬m BL
+	박성현m -> 정시우m BL
+	명재윤w -> 차민오m 정상
+	명재윤w -> 정준우m 정상
+	김시호m -> 김효인w 정상
+	김은오w -> 김범수m 정상
+	김은오w -> 신민서w GL
+	오예준m -> 차민오m BL
+	오예준m -> 정준우m BL
+	이소연w -> 최현서w GL
 
 28%
-	명재윤w -> 오예준m NON GAY
-	김시호m -> 박성현m GAY
-	오예준m -> 오예준m GAY
+	명재윤w -> 오예준m 정상
+	김시호m -> 박성현m BL
+	오예준m -> 오예준m BL
 
 27%
-	박성현m -> 강서윤w NON GAY
-	김시호m -> 박주원m GAY
-	김은오w -> 박지빈w WOMEN GAY
-	김은오w -> 정연준m NON GAY
+	박성현m -> 강서윤w 정상
+	김시호m -> 박주원m BL
+	김은오w -> 박지빈w GL
+	김은오w -> 정연준m 정상
 
 26%
-	김시호m -> 길도윤m GAY
+	김시호m -> 길도윤m BL
 
 25%
-	길도윤m -> 김범수m GAY
-	길도윤m -> 신민서w NON GAY
-	명재윤w -> 김효인w WOMEN GAY
-	오예준m -> 김효인w NON GAY
+	길도윤m -> 김범수m BL
+	길도윤m -> 신민서w 정상
+	명재윤w -> 김효인w GL
+	오예준m -> 김효인w 정상
 
 24%
-	명재윤w -> 박성현m NON GAY
-	오예준m -> 박성현m GAY
-	정하윤w -> 김시호m NON GAY
+	명재윤w -> 박성현m 정상
+	오예준m -> 박성현m BL
+	정하윤w -> 김시호m 정상
 
 23%
-	박성현m -> 가도원w NON GAY
-	길도윤m -> 박지빈w NON GAY
-	길도윤m -> 정연준m GAY
-	명재윤w -> 박주원m NON GAY
-	김시호m -> 차민오m GAY
-	김시호m -> 정준우m GAY
-	오예준m -> 박주원m GAY
-	정하윤w -> 최현서w WOMEN GAY
+	박성현m -> 가도원w 정상
+	길도윤m -> 박지빈w 정상
+	길도윤m -> 정연준m BL
+	명재윤w -> 박주원m 정상
+	김시호m -> 차민오m BL
+	김시호m -> 정준우m BL
+	오예준m -> 박주원m BL
+	정하윤w -> 최현서w GL
 
 22%
-	박성현m -> 명재윤w NON GAY
-	명재윤w -> 길도윤m NON GAY
-	김시호m -> 오예준m GAY
-	오예준m -> 길도윤m GAY
+	박성현m -> 명재윤w 정상
+	명재윤w -> 길도윤m 정상
+	김시호m -> 오예준m BL
+	오예준m -> 길도윤m BL
 
 21%
-	박성현m -> 조환m GAY
+	박성현m -> 조환m BL
 
 20%
-	이소연w -> 김시호m NON GAY
+	이소연w -> 김시호m 정상
 
 19%
-	정성준m -> 김범수m GAY
-	정성준m -> 신민서w NON GAY
-	강서윤w -> 조환m NON GAY
-	박주원m -> 가도원w NON GAY
-	박지빈w -> 박주원m NON GAY
-	정연준m -> 김효인w NON GAY
-	차민오m -> 최현서w NON GAY
-	최현서w -> 차민오m NON GAY
-	최현서w -> 정준우m NON GAY
-	정준우m -> 최현서w NON GAY
+	정성준m -> 김범수m BL
+	정성준m -> 신민서w 정상
+	강서윤w -> 조환m 정상
+	박주원m -> 가도원w 정상
+	박지빈w -> 박주원m 정상
+	정연준m -> 김효인w 정상
+	차민오m -> 최현서w 정상
+	최현서w -> 차민오m 정상
+	최현서w -> 정준우m 정상
+	정준우m -> 최현서w 정상
 
 18%
-	가도원w -> 김시호m NON GAY
-	박주원m -> 명재윤w NON GAY
-	박지빈w -> 길도윤m NON GAY
-	정시우m -> 김은오w NON GAY
-	정연준m -> 박성현m GAY
-	최현서w -> 오예준m NON GAY
+	가도원w -> 김시호m 정상
+	박주원m -> 명재윤w 정상
+	박지빈w -> 길도윤m 정상
+	정시우m -> 김은오w 정상
+	정연준m -> 박성현m BL
+	최현서w -> 오예준m 정상
 
 17%
-	정성준m -> 박지빈w NON GAY
-	정성준m -> 정연준m GAY
-	가도원w -> 최현서w WOMEN GAY
-	강서윤w -> 강은찬m NON GAY
-	강서윤w -> 정시우m NON GAY
-	김지윤w -> 김지윤w WOMEN GAY
-	김효인w -> 김지윤w WOMEN GAY
-	박주원m -> 조환m GAY
-	정시우m -> 정성준m GAY
-	정연준m -> 박주원m GAY
-	조환m -> 차민오m GAY
-	조환m -> 정준우m GAY
+	정성준m -> 박지빈w 정상
+	정성준m -> 정연준m BL
+	가도원w -> 최현서w GL
+	강서윤w -> 강은찬m 정상
+	강서윤w -> 정시우m 정상
+	김지윤w -> 김지윤w GL
+	김효인w -> 김지윤w GL
+	박주원m -> 조환m BL
+	정시우m -> 정성준m BL
+	정연준m -> 박주원m BL
+	조환m -> 차민오m BL
+	조환m -> 정준우m BL
 
 16%
-	김범수m -> 김시호m GAY
-	정시우m -> 이소연w NON GAY
-	정시우m -> 정하윤w NON GAY
-	정연준m -> 길도윤m GAY
-	조환m -> 오예준m GAY
+	김범수m -> 김시호m BL
+	정시우m -> 이소연w 정상
+	정시우m -> 정하윤w 정상
+	정연준m -> 길도윤m BL
+	조환m -> 오예준m BL
 
 15%
-	강서윤w -> 강서윤w WOMEN GAY
-	강은찬m -> 김지윤w NON GAY
-	김범수m -> 최현서w NON GAY
-	박주원m -> 강은찬m GAY
-	박주원m -> 정시우m GAY
-	박지빈w -> 차민오m NON GAY
-	박지빈w -> 정준우m NON GAY
-	최현서w -> 김효인w WOMEN GAY
+	강서윤w -> 강서윤w GL
+	강은찬m -> 김지윤w 정상
+	김범수m -> 최현서w 정상
+	박주원m -> 강은찬m BL
+	박주원m -> 정시우m BL
+	박지빈w -> 차민오m 정상
+	박지빈w -> 정준우m 정상
+	최현서w -> 김효인w GL
 
 14%
-	김지윤w -> 김은오w WOMEN GAY
-	김효인w -> 김은오w WOMEN GAY
-	박지빈w -> 오예준m NON GAY
-	신민서w -> 김시호m NON GAY
-	최현서w -> 박성현m NON GAY
+	김지윤w -> 김은오w GL
+	김효인w -> 김은오w GL
+	박지빈w -> 오예준m 정상
+	신민서w -> 김시호m 정상
+	최현서w -> 박성현m 정상
 
 13%
-	김지윤w -> 정성준m NON GAY
-	김효인w -> 정성준m NON GAY
-	박주원m -> 강서윤w NON GAY
-	신민서w -> 최현서w WOMEN GAY
-	정연준m -> 차민오m GAY
-	정연준m -> 정준우m GAY
-	조환m -> 김효인w NON GAY
-	최현서w -> 박주원m NON GAY
+	김지윤w -> 정성준m 정상
+	김효인w -> 정성준m 정상
+	박주원m -> 강서윤w 정상
+	신민서w -> 최현서w GL
+	정연준m -> 차민오m BL
+	정연준m -> 정준우m BL
+	조환m -> 김효인w 정상
+	최현서w -> 박주원m 정상
 
 12%
-	강은찬m -> 김은오w NON GAY
-	김지윤w -> 이소연w WOMEN GAY
-	김지윤w -> 정하윤w WOMEN GAY
-	김효인w -> 이소연w WOMEN GAY
-	김효인w -> 정하윤w WOMEN GAY
-	정연준m -> 오예준m GAY
-	조환m -> 박성현m GAY
-	최현서w -> 길도윤m NON GAY
+	강은찬m -> 김은오w 정상
+	김지윤w -> 이소연w GL
+	김지윤w -> 정하윤w GL
+	김효인w -> 이소연w GL
+	김효인w -> 정하윤w GL
+	정연준m -> 오예준m BL
+	조환m -> 박성현m BL
+	최현서w -> 길도윤m 정상
 
 11%
-	강서윤w -> 가도원w WOMEN GAY
-	강은찬m -> 정성준m GAY
-	박지빈w -> 김효인w WOMEN GAY
-	정시우m -> 김지윤w NON GAY
-	조환m -> 박주원m GAY
+	강서윤w -> 가도원w GL
+	강은찬m -> 정성준m BL
+	박지빈w -> 김효인w GL
+	정시우m -> 김지윤w 정상
+	조환m -> 박주원m BL
 
 10%
-	강서윤w -> 명재윤w WOMEN GAY
-	강은찬m -> 이소연w NON GAY
-	강은찬m -> 정하윤w NON GAY
-	박지빈w -> 박성현m NON GAY
+	강서윤w -> 명재윤w GL
+	강은찬m -> 이소연w 정상
+	강은찬m -> 정하윤w 정상
+	박지빈w -> 박성현m 정상
 
 9%
-	박성현m -> 김지윤w NON GAY
-	길도윤m -> 강서윤w NON GAY
-	김은오w -> 가도원w WOMEN GAY
-	이소연w -> 박지빈w WOMEN GAY
-	이소연w -> 정연준m NON GAY
+	박성현m -> 김지윤w 정상
+	길도윤m -> 강서윤w 정상
+	김은오w -> 가도원w GL
+	이소연w -> 박지빈w GL
+	이소연w -> 정연준m 정상
 
 8%
-	명재윤w -> 김시호m NON GAY
-	김은오w -> 명재윤w WOMEN GAY
-	오예준m -> 김시호m GAY
+	명재윤w -> 김시호m 정상
+	김은오w -> 명재윤w GL
+	오예준m -> 김시호m BL
 
 7%
-	명재윤w -> 최현서w WOMEN GAY
-	김은오w -> 조환m NON GAY
-	오예준m -> 최현서w NON GAY
+	명재윤w -> 최현서w GL
+	김은오w -> 조환m 정상
+	오예준m -> 최현서w 정상
 
 6%
-	박성현m -> 김은오w NON GAY
+	박성현m -> 김은오w 정상
 
 5%
-	박성현m -> 정성준m GAY
-	길도윤m -> 가도원w NON GAY
-	김은오w -> 강은찬m NON GAY
-	김은오w -> 정시우m NON GAY
-	정하윤w -> 김범수m NON GAY
-	정하윤w -> 신민서w WOMEN GAY
+	박성현m -> 정성준m BL
+	길도윤m -> 가도원w 정상
+	김은오w -> 강은찬m 정상
+	김은오w -> 정시우m 정상
+	정하윤w -> 김범수m 정상
+	정하윤w -> 신민서w GL
 
 4%
-	박성현m -> 이소연w NON GAY
-	박성현m -> 정하윤w NON GAY
-	길도윤m -> 명재윤w NON GAY
+	박성현m -> 이소연w 정상
+	박성현m -> 정하윤w 정상
+	길도윤m -> 명재윤w 정상
 
 3%
-	길도윤m -> 조환m GAY
-	김은오w -> 강서윤w WOMEN GAY
-	정하윤w -> 박지빈w WOMEN GAY
-	정하윤w -> 정연준m NON GAY
+	길도윤m -> 조환m BL
+	김은오w -> 강서윤w GL
+	정하윤w -> 박지빈w GL
+	정하윤w -> 정연준m 정상
 
 2%
-	김시호m -> 김시호m GAY
+	김시호m -> 김시호m BL
 
 1%
-	길도윤m -> 강은찬m GAY
-	길도윤m -> 정시우m GAY
-	김시호m -> 최현서w NON GAY
-	이소연w -> 김범수m NON GAY
-	이소연w -> 신민서w WOMEN GAY
+	길도윤m -> 강은찬m BL
+	길도윤m -> 정시우m BL
+	김시호m -> 최현서w 정상
+	이소연w -> 김범수m 정상
+	이소연w -> 신민서w GL
 
